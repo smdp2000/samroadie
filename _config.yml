@@ -1,0 +1,36 @@
+# site settings
+title: 
+subtitle: bit and pieces of what i am and what i do wrapped up in here
+email: somyadeep99@gmail.com
+description: An avid researcher , developer and coder.<br /> If you have something worthwhile to discuss , lets grab a coffee.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: HIG-8 , Sunrise Megacity
+city: Sagar
+state: Madhya Pradesh
+zip_code: 470002
+country: India
+phone: (+91) 8989617975
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/smdp2000/
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/i.n_som_n.i.a.c/
+linkedin_url: https://www.linkedin.com/in/smdp2000/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
